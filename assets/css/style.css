@@ -156,6 +156,7 @@ ul.list {
    [ Hero Area ] [Default]
 ================================================= */
 #hero.hero-image {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.55), rgba(0, 0, 0, 0.5)), url("/assets/image/hero-unmaha.jpg");
     height: 100vh;
     background-position: center;
     background-repeat: no-repeat;
@@ -403,6 +404,7 @@ ul.list {
    [ double degree ] [Default]
 ================================================= */
 #double-degree {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url("/assets/image/wisuda-flag.png");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -463,6 +465,7 @@ ul.list {
 
 #testimoni .card .card-body {
     height: 100%;
+    background-image: url("/assets/image/wave.png");
 }
 
 #testimoni .card .card-text {
@@ -515,6 +518,7 @@ ul.list {
    [ Daftar ] [Default]
 ================================================= */
 #daftar {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url("/assets/image/halaman.png");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
